@@ -1,0 +1,224 @@
+body {      font-family: 'Montserrat', sans-serif;
+    color: rgb(92, 55, 52);
+    background-color: #d4f7f0;
+    text-align: center;
+    line-height: 1.4;
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+/*BOOTSRAP*/
+.nav-color {
+    background-color: #2efdd4e1;
+}
+
+.navbar-brand {
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-h3 {
+    padding-left: 20px;
+    color: black;
+}
+
+.togbutton {
+    padding: 0;
+}
+
+.navbar-title {
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+h1 {
+    margin: auto;
+    font-size: 3.4rem;
+    color: #66BFBF;
+    width: 20%;
+    margin-bottom: 50px;
+}
+
+h2 {
+    padding: 35px;
+    font-size: 2.3rem;
+    color: #4E9F3D;
+    ;
+}
+
+h3 {
+    color: #4E9F3D;
+}
+
+p {
+    padding-bottom: 30px;
+    width: 50%;
+    margin: auto;
+    color: rgba(92, 55, 52, 0.925);
+}
+
+.para1 {
+    width: 25%;
+}
+
+.agent {
+    border: solid;
+    border-width: 4px;
+    padding: 20px 40px;
+}
+
+.dor {
+    border: solid;
+    border-width: 4px;
+    padding: 20px 340px 20px 30px;
+}
+
+.bottom-container {
+    margin-top: 30px;
+    background-color: rgba(58, 157, 190, 0.705);
+    padding: 30px 30px 0;
+}
+
+.container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background-color: grey;
+}
+
+a {
+    color: #223b3b;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+span {
+    padding: 40px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.skill {
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-width: 1px;
+    margin: 20px;
+}
+
+hr {
+    border-style: dashed none none;
+    border-color: rgb(128, 68, 68);
+    border-width: 2.1px;
+    padding: 10px 0px
+}
+
+img:hover {
+    border-radius: 35%;
+    border-color: rgb(92, 55, 52);
+    border-width: 2px;
+}
+
+
+.footer-link {padding: 20px;
+    font-size: 1.8rem;
+    color: black;
+}
+
+.copyright {
+    margin-top: 30px;
+    color: rgb(228, 244, 252);
+    font-size: 1.1rem;
+}
+
+/*        ----QR CODE PAGE CSS STARTING ----     */
+
+.third-page-body {
+    background: linear-gradient(to right, orange, rgb(240, 61, 61));
+}
+.container-fluid {
+    padding: 1% 15%;
+}
+
+.top-container {
+    padding-top: 40px;
+    margin: auto;
+    width: 335px;
+}
+
+.third-page-p {
+    font-size: 1rem;
+    width: 260px;
+    color: rgba(49, 48, 48, 0.685);
+    padding: 10px 10px 40px;
+}
+
+.third-page-img {
+    padding: 15px;
+    height: 300px;
+}
+
+.third-page-h3 {margin: auto;
+    width: 280px;
+    font-weight: 800;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.753);
+}
+
+.white-card {
+    border-radius: 6%;
+    background-color: white;
+    margin-bottom: 190px;
+}
+
+/*   Button    */
+
+.btn {
+    margin: 10px;
+    font-size: 40px;
+}
+
+/* TESTIMONIAL */
+
+#testimonials {
+    background-color: rgba(134, 168, 13, 0.253);
+}
+
+.carousel-item {
+    padding: 2% 15%;
+
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    width: 3rem;
+    height: 3rem;
+    padding: 30px;
+
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    width: 400px;
+}
