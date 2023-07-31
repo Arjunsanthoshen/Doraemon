@@ -1,0 +1,1 @@
+alert("Accept Cookies 🍪?, Accept the Cookie Bro...Accept it🔪⚰ , its Tasty😋");
